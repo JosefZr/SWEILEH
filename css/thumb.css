@@ -13,7 +13,6 @@
     margin-right: auto;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    border: 1px solid red;
 }
 
 /*xxxl*/
@@ -211,15 +210,15 @@ width: auto;
     }
 }
 .debut h1{
-    position: absolute;
-    font-size: 3.0rem;
-    text-align: center;
-    font-weight: 700;
-    color:#fff;
-    top: 50%;
-    left: 50%;
+        position: absolute;
+        font-size: 6.0rem;
+        text-align: center;
+        font-weight: 700;
+        color: #fff;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
 }
-
 .container.gallery-container {
     background-color: #fff;
     color: #35373a;
